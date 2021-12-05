@@ -17,7 +17,7 @@ This package adds a code editor to the stack trace tab of the [Ignition error pa
 You can install the package via composer:
 
 ```bash
-composer require facade/ignition-code-editor --dev
+composer require muath-ye/ignition-code-editor --dev
 ```
 
 ## Documentation
