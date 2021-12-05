@@ -1,16 +1,16 @@
 {
-    "name": "facade/ignition-code-editor",
-    "description": "A code editor for Ignition",
+    "name": "muath-ye/ignition-code-editor",
+    "description": "A code editor for Ignition Updated to support php 8",
     "keywords": [
         "laravel",
         "ignition",
         "editor"
     ],
-    "homepage": "https://github.com/facade/code-editor",
+    "homepage": "https://github.com/muath-ye/ignition-code-editor",
     "license": "MIT",
     "require": {
         "php": "^7.1|^7.2|^7.3|^7.4|^8",
-        "illuminate/support": " 5.8.*|^6.0",
+        "illuminate/support": " 5.8.*|^6.0|^7.0|^8.0",
         "facade/ignition": "~1.0"
     },
     "require-dev": {
